@@ -1,4 +1,5 @@
 # David Coin
+![This is an image](https://github.com/Davidcoin777/hello-world/blob/main/img/img/DavidcoinLogo.jpeg)
 ## What's David Coin
 [Davidcoin.io](https://davidcoin.io)</br>
 [White Paper](https://github.com/Davidcoin777/hello-world/blob/main/img/doc/DavidCoin.pdf)

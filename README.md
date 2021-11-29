@@ -7,5 +7,5 @@
 - [Facebook](https://www.facebook.com/davidcoineua-108752774939897)
 - [Instagram](https://instagram.com/p/CV0vXogJqzc/)
 - [Telegram](https://t.me/davidcoin77)
-- [Twitter]
-- [TikTok]
+- [Twitter](https://twitter.com/Netoten10)
+- [TikTok](https://www.tiktok.com/@davidcoin777?)

@@ -1,6 +1,8 @@
 # David Coin
 ## What's David Coin
-[Davidcoin.io](https://davidcoin.io)
+[Davidcoin.io](https://davidcoin.io)</br>
+[White Paper](https://github.com/Davidcoin777/hello-world/blob/main/img/doc/DavidCoin.pdf)
+
 
 ## Contact us
 - [YouTube](https://www.youtube.com/channel/UCSpigGdb1GEc3OCbbV6oV8w)
